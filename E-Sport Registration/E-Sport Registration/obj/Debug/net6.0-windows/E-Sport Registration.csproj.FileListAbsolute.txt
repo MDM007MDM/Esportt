@@ -1,0 +1,23 @@
+C:\Users\Lenovo\source\repos\E-Sport Registration\E-Sport Registration\bin\Debug\net6.0-windows\E-Sport Registration.exe
+C:\Users\Lenovo\source\repos\E-Sport Registration\E-Sport Registration\bin\Debug\net6.0-windows\E-Sport Registration.deps.json
+C:\Users\Lenovo\source\repos\E-Sport Registration\E-Sport Registration\bin\Debug\net6.0-windows\E-Sport Registration.runtimeconfig.json
+C:\Users\Lenovo\source\repos\E-Sport Registration\E-Sport Registration\bin\Debug\net6.0-windows\E-Sport Registration.dll
+C:\Users\Lenovo\source\repos\E-Sport Registration\E-Sport Registration\bin\Debug\net6.0-windows\E-Sport Registration.pdb
+C:\Users\Lenovo\source\repos\E-Sport Registration\E-Sport Registration\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Lenovo\source\repos\E-Sport Registration\E-Sport Registration\obj\Debug\net6.0-windows\E-Sport Registration.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\E-Sport Registration\E-Sport Registration\obj\Debug\net6.0-windows\E_Sport_Registration.PlayerRGForm.resources
+C:\Users\Lenovo\source\repos\E-Sport Registration\E-Sport Registration\obj\Debug\net6.0-windows\E_Sport_Registration.PlayersForm.resources
+C:\Users\Lenovo\source\repos\E-Sport Registration\E-Sport Registration\obj\Debug\net6.0-windows\E_Sport_Registration.TeamRGForm.resources
+C:\Users\Lenovo\source\repos\E-Sport Registration\E-Sport Registration\obj\Debug\net6.0-windows\E_Sport_Registration.TeamsForm.resources
+C:\Users\Lenovo\source\repos\E-Sport Registration\E-Sport Registration\obj\Debug\net6.0-windows\E-Sport Registration.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\E-Sport Registration\E-Sport Registration\obj\Debug\net6.0-windows\E-Sport Registration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\E-Sport Registration\E-Sport Registration\obj\Debug\net6.0-windows\E-Sport Registration.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\E-Sport Registration\E-Sport Registration\obj\Debug\net6.0-windows\E-Sport Registration.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\E-Sport Registration\E-Sport Registration\obj\Debug\net6.0-windows\E-Sport Registration.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\E-Sport Registration\E-Sport Registration\obj\Debug\net6.0-windows\E-Sport Registration.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\E-Sport Registration\E-Sport Registration\obj\Debug\net6.0-windows\E-Sport Registration.dll
+C:\Users\Lenovo\source\repos\E-Sport Registration\E-Sport Registration\obj\Debug\net6.0-windows\refint\E-Sport Registration.dll
+C:\Users\Lenovo\source\repos\E-Sport Registration\E-Sport Registration\obj\Debug\net6.0-windows\E-Sport Registration.pdb
+C:\Users\Lenovo\source\repos\E-Sport Registration\E-Sport Registration\obj\Debug\net6.0-windows\E-Sport Registration.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\E-Sport Registration\E-Sport Registration\obj\Debug\net6.0-windows\ref\E-Sport Registration.dll
+C:\Users\Lenovo\source\repos\E-Sport Registration\E-Sport Registration\obj\Debug\net6.0-windows\E_Sport_Registration.FindPlayerForm.resources
